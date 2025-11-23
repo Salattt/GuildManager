@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0e2694a0c65bf04f8d673bbeba85d31, type: 3}
+  m_Name: 000
+  m_EditorClassIdentifier: 
+  _possibleBuildings: []
+  _name: 
+  _description: 
+  _hazardLvl: 0
+  _visibilityHardnessLvl: 0
+  _travelHardnessLvl: 0
+  _fogLvl: 0
+  Object: {fileID: 7920757440812055681, guid: 02d5a60d9f160ae40af4cb2008c3ae85, type: 3}
